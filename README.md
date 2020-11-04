@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Stack](#stack)
 * [Content](#content)
-* [UX/UI](#UX/UI)
+* [UX/UI](#uxui)
 * [Footer](#footer)
 * [Online version](#online-version)
 * [Visuals](#visuals)
