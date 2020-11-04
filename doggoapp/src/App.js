@@ -15,7 +15,7 @@ function App() {
         <Navbar />
       </div>
       <div className="content mt-5 mb-5 pt-5">
-        <Route exact path="/" component={Home}></Route>
+        <Route exact path="/DoGGo-App" component={Home}></Route>
         <Route exact path="/random-dog-fact" component={RandomDogFact}></Route>
         <Route exact path="/all-dogs-facts" component={AllDogsFacts}></Route>
       </div>

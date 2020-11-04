@@ -3,7 +3,7 @@ import "../styles/Home.scss";
 
 export default function Home() {
   return (
-    <div className="homepage d-flex flex-column align-items-center">
+    <div className="homepage d-flex flex-column align-items-center text-center">
       <h1>Welcome to the DoGGo App</h1>
       <img
         className="dog-gif"
