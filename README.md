@@ -38,6 +38,21 @@ Facts about dogs
 
 ## Content    
     The application is divided into two sections (and the footer).
+    First sections has three buttons. By clicking them we can visit different part of page.
+    The second section is showing us a paged we choose.
+
+    - Homepage has a title, gif and instruction.
+
+    - Random Fact button is taking us to the page where we can see one random choosed fact.
+    To do it I called: https://cat-fact.herokuapp.com/facts/random?animal_type=dog 
+    where we can use endpoints like: random and animal_type=dog
+    In HTML part choose to show the text (there is no user part available in random searching)
+    together with shuffle button, which is calling the function everytime is clicked.
+    
+    - All dogs' facts is taking us to the page where we can see all facts about dogs available in this API (around 40 for today)
+    To do it I called: https://cat-fact.herokuapp.com/facts/?animal_type=dog
+    where we can use endpoint: animal_type=dog
+    In HTML part I used {this.state.allDogsFacts..map((item,i)=>(....))} to iterate through the all elements in the array and show text, user's name and surname. I also excluded testing message (which is appearing in API0 by using if statement: {!item.text.toLowerCase().includes("testing") ? () :()}
 
 ## UX/UI
     User can:
@@ -46,7 +61,7 @@ Facts about dogs
         * see random fact about dogs
             - by clicking on shuffle button, user can see the next random fact
     - in the window with a scrollbar user can see all available in API facts about dogs
-    + name and surname of the person who posted this fact
+    and name and surname of the person who posted this fact
         
 ## Footer
     An additional element with the link to my portfolio.
