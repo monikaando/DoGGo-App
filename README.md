@@ -22,7 +22,8 @@ DoGGo App
 Facts about dogs
 
 ## General info
-    1) Application is built in frontend with using Axios for catching data from the API (<a href="https://cat-fact.herokuapp.com"></a>).
+    1) Application is built in frontend with using Axios for catching data from the API 
+    (https://cat-fact.herokuapp.com).
     2) The application is a single page application.
     3) I used React, Axios, Bootstrap, Sass.
     4) The whole application is responsive.
@@ -44,7 +45,8 @@ Facts about dogs
         * go to the Homepage 
         * see random fact about dogs
             - by clicking on shuffle button, user can see the next random fact
-    - in the window with a scrollbar user can see all available in API facts about dogs + name and surname of the person who posted this fact
+    - in the window with a scrollbar user can see all available in API facts about dogs
+    + name and surname of the person who posted this fact
         
 ## Footer
     An additional element with the link to my portfolio.
