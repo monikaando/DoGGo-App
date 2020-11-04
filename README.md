@@ -46,6 +46,7 @@ Facts about dogs
     - Random Fact button is taking us to the page where we can see one random choosed fact.
     To do it I called: https://cat-fact.herokuapp.com/facts/random?animal_type=dog 
     where we can use endpoints like: random and animal_type=dog
+    
     In HTML part choose to show the text (there is no user part available in random searching)
     together with shuffle button, which is calling the function everytime is clicked.
     
@@ -53,8 +54,10 @@ Facts about dogs
     available in this API (around 40 for today)
     To do it I called: https://cat-fact.herokuapp.com/facts/?animal_type=dog
     where we can use endpoint: animal_type=dog
+
     In HTML part I used {this.state.allDogsFacts..map((item,i)=>(....))} to iterate through
     the all elements in the array and show text, user's name and surname. 
+
     I also excluded testing message (which is appearing in API0 by using if statement:
     {!item.text.toLowerCase().includes("testing") ? () :()}
 
