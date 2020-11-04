@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/doggo-app/static/css/main.4b03c321.chunk.css",
+    "main.js": "/doggo-app/static/js/main.4a9db820.chunk.js",
+    "main.js.map": "/doggo-app/static/js/main.4a9db820.chunk.js.map",
+    "runtime-main.js": "/doggo-app/static/js/runtime-main.ec0db2ef.js",
+    "runtime-main.js.map": "/doggo-app/static/js/runtime-main.ec0db2ef.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/doggo-app/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1273a177.chunk.js": "/doggo-app/static/js/2.1273a177.chunk.js",
+    "static/js/2.1273a177.chunk.js.map": "/doggo-app/static/js/2.1273a177.chunk.js.map",
+    "static/js/3.8c00a6a9.chunk.js": "/doggo-app/static/js/3.8c00a6a9.chunk.js",
+    "static/js/3.8c00a6a9.chunk.js.map": "/doggo-app/static/js/3.8c00a6a9.chunk.js.map",
+    "index.html": "/doggo-app/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/doggo-app/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4b03c321.chunk.css.map": "/doggo-app/static/css/main.4b03c321.chunk.css.map",
+    "static/js/2.1273a177.chunk.js.LICENSE.txt": "/doggo-app/static/js/2.1273a177.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec0db2ef.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1273a177.chunk.js",
+    "static/css/main.4b03c321.chunk.css",
+    "static/js/main.4a9db820.chunk.js"
+  ]
+}
