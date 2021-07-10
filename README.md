@@ -75,6 +75,7 @@ Facts about dogs
 
 ## Online version 
 <a href="https://mswidzinska.github.io/DoGGo-App">https://mswidzinska.github.io/DoGGo-App</a>
+
 UPDATE (07.2021): the API is not working anymore, please check my YT Video.
 
 ## Visuals
